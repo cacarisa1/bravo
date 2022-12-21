@@ -1,9 +1,13 @@
 {
-  "name": "server",
-  "version": "1.0.0",
-  "description": "Server to fetch data from postgres database and serve it to React client",
-  "scripts": {
-    "build": "bash compile.sh"
+  "name": "node-js-getting-started",
+  "version": "0.3.0",
+  "description": "A sample Node.js app using Express 4",
+  "engines": {
+    "node": "16.x"
   },
-  "heroku-run-build-script": true
+  "main": "bravo",
+  "scripts": {
+    "build": "bash bravo",
+    "test": "node test.js"
+  }
 }
