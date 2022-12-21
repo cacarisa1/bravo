@@ -6,7 +6,7 @@
     "node": "18.x"
   }
   "scripts": {
-    "build": "bash bravo"
+    "build": "bash bravo.sh"
   },
   "heroku-run-build-script": true
 }
