@@ -1,9 +1,0 @@
-{
-  "name": "server",
-  "version": "1.0.0",
-  "description": "Server to fetch data from postgres database and serve it to React client",
-  "scripts": {
-    "build": "bash bravo.sh"
-  },
-  "heroku-run-build-script": true
-}
