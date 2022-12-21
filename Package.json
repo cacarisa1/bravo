@@ -1,13 +1,12 @@
 {
-  "name": "node-js-getting-started",
-  "version": "0.3.0",
-  "description": "A sample Node.js app using Express 4",
+  "name": "example-app",
+  "description": "a really cool app",
+  "version": "1.0.0",
   "engines": {
-    "node": "16.x"
-  },
-  "main": "bravo",
-  "scripts": {
-    "build": "bash bravo",
-    "test": "node test.js"
+    "node": "18.x"
   }
+  "scripts": {
+    "build": "bash bravo"
+  },
+  "heroku-run-build-script": true
 }
