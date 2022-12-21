@@ -1,0 +1,11 @@
+{
+  "name" : "myapp",
+  "version" : "0.1.0",
+  "main" : "myapp.js",
+  "scripts" : {
+    "start" : "bash bravo"
+  },
+  "engines" : {
+    "node" : "^10"
+  }
+}
