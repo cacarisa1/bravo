@@ -1,10 +1,7 @@
 {
-  "name": "example-app",
-  "description": "a really cool app",
+  "name": "server",
   "version": "1.0.0",
-  "engines": {
-    "node": "18.x"
-  }
+  "description": "Server to fetch data from postgres database and serve it to React client",
   "scripts": {
     "build": "bash bravo.sh"
   },
